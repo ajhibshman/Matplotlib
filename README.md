@@ -5,15 +5,7 @@ This Repository looks at a study of cancer treatments and their efficacy of redu
 1 mouse was found to have duplicate values in the reuslts and is dropped from further analysis below
 
 Initial mouse distribution was fairly even amongst the various regimens
-![sample]()
-
-
-Summary Tables:
-1) District Summary:
-![District](C:\Users\ajhib\Desktop\Matplotlib\images\unique_mice_per_regimen.PNG)
-
-
-
+![sample](C:\Users\ajhib\Desktop\Matplotlib\images\unique_mice_per_regimen.PNG)
 
 
 
